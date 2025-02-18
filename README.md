@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi, I am Gaurav 👋
 <!--
 **GauravSharmaCode/gauravSharmaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,6 +31,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -58,10 +58,6 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 ![gauravSharmaCode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravSharmaCode&theme=dracula&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSharmaCode&layout=compact&theme=radical)
-
----
-## 🌟 Contributions
-![image](https://github.com/user-attachments/assets/58926126-8be9-4a41-9eae-1a8558197e52)
 
 ---
 
